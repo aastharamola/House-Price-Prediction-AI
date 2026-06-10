@@ -1,11 +1,8 @@
-<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/f0e934a8-fb0f-437b-be4e-53e00abcdfcb" />
-
 # 🏡 House Price Prediction using Machine Learning
 
 A beginner-friendly project to predict house prices based on various factors such as square footage, number of bedrooms, location, and more. This project walks through data exploration, visualization, linear regression, and gradient boosting to achieve high model accuracy.
-![Uploading Screenshot (126).png…]()
 
----
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/f0e934a8-fb0f-437b-be4e-53e00abcdfcb" />---
 
 ## 📂 Project Structure
 
