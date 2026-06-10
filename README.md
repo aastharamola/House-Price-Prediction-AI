@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Screenshot (126)" src="https://github.com/user-attachments/assets/f0e934a8-fb0f-437b-be4e-53e00abcdfcb" />
 
 # 🏡 House Price Prediction using Machine Learning
 
