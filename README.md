@@ -1,16 +1,7 @@
 
 # 🏡 House Price Prediction using Machine Learning
 
-![Streamlit Web Application](screenshot.png)
-
-A beginner-friendly project to predict house prices based on various factors such as square footage, number of bedrooms, location, and more. This project walks through data exploration, visualization, linear regression, and gradient boosting to achieve high model accuracy, culminating in a fully interactive web application.
-
----
-
-## ✨ Project Highlights (Resume Ready)
-* **End-to-End ML Pipeline**: From raw data cleaning and exploratory data analysis to feature engineering and model deployment.
-* **High Accuracy**: Trained and evaluated multiple models, selecting a Gradient Boosting Regressor that achieved **91.94% accuracy**.
-* **Interactive Web App**: Built and deployed a user-friendly frontend using **Streamlit**, allowing users to input house specifications and receive real-time market value estimates.
+A beginner-friendly project to predict house prices based on various factors such as square footage, number of bedrooms, location, and more. This project walks through data exploration, visualization, linear regression, and gradient boosting to achieve high model accuracy.
 
 ---
 
@@ -94,7 +85,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/aastharamola/House-Price-Prediction-AI.git
-cd House-Price-Prediction-AI
+cd house-price-prediction
 ```
 
 2. **Install dependencies**
