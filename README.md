@@ -84,7 +84,7 @@ pip install -r requirements.txt
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Shreyas3108/house-price-prediction.git
+git clone https://github.com/aastharamola/House-Price-Prediction-AI.git
 cd house-price-prediction
 ```
 
