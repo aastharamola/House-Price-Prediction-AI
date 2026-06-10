@@ -85,7 +85,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/aastharamola/House-Price-Prediction-AI.git
-cd house-price-prediction
+cd House-Price-Prediction-AI
 ```
 
 2. **Install dependencies**
